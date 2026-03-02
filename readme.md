@@ -1,5 +1,4 @@
 Marine Climate Analysis 
 =======
-A comprehensive Python-based analysis toolkit for studying Sea Surface Temperature (SST) patterns and detecting Marine Heatwaves (MHW) in the North Indian Ocean (Arabian Sea, Bay of Bengal, and surrounding regions).
-
+A comprehensive Python-based analysis, detection and visualization of Sea Surface Temperature (SST) and development of marine heatwave (MHW) and coldspells (CS) in the North Indian Ocean (Arabian Sea, Bay of Bengal regions.
 
